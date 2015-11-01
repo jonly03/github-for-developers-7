@@ -2,3 +2,4 @@
 - [X] **Where I am from**: *Nashua, NH*
 - [X] **Favoerite food**: *Rice*
 - [X] **Hobby**: *Basketball*
+- [X] **Favorite color**: *Black*
