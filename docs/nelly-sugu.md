@@ -1,5 +1,6 @@
 - [X] **Name**: *Nelly Sugu*
-- [X] **Where I am from**: *Nashua, NH*
+- [X] **Where I am from**: *Riverside, CA*
 - [X] **Favoerite food**: *Rice*
 - [X] **Hobby**: *Basketball*
 - [X] **Favorite color**: *Black*
+- [X] **Favorite city**: *New York*
