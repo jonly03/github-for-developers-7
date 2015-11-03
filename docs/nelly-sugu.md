@@ -3,3 +3,4 @@
 - [X] **Favoerite food**: *Rice*
 - [X] **Hobby**: *Basketball*
 - [X] **Favorite color**: *Black*
+- [X] **Favorite City**: *New York*
